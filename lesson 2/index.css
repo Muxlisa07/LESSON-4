@@ -1,0 +1,21 @@
+div{
+    width: 500px;
+    margin: 300px auto;
+    display: block;
+    text-align: center;
+    
+}
+p{
+    display: block;
+    text-align: center;
+}
+h3{
+    text-align: center;
+    color: grey;
+    font-size: 16px;
+    font-style: normal;
+    
+}
+h4{
+    text-align: justify;
+}
